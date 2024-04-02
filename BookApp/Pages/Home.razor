@@ -1,7 +1,17 @@
 ﻿@page "/"
 
-<PageTitle>Home</PageTitle>
-
-<h1>Hello, world!</h1>
-
-Welcome to your new app.
+<MudGrid Justify="Justify.Center">
+    <MudItem lg="6">
+        <MudText Class="font-sans text-6xl font-bold" Align="Align.Center" Typo="Typo.h1">Ihr Online-Einkaufserlebnis für die vielfältige Welt der Bücher </MudText>
+        <MudText Class="mt-8 mud-text-secondary" Align="Align.Center" Typo="Typo.body1">
+            Von den Tiefen epischer Fantasy bis zu den lehrreichen Seiten der Wissenschaft, von herzergreifenden Romanzen bis zu den spannendsten Thrillern – Unser Shop bietet eine unvergleichliche Auswahl für jeden Geschmack.
+        </MudText>
+        
+        <MudStack Class="mt-8" Justify="Justify.Center" Row="true">
+            <MudButton Href="shop" DisableElevation="false" Color="Color.Primary" Variant="Variant.Filled">Shop ansehen</MudButton>
+            <MudLink Class="mt-2" Href="/contact" Underline="Underline.Hover" Color="Color.Primary">Kontaktiere uns</MudLink>
+        </MudStack>
+        
+        <MudImage Class="mt-24 rounded" Src="Cover.png"></MudImage>
+    </MudItem>
+</MudGrid>

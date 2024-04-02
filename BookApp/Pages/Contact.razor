@@ -1,0 +1,28 @@
+@page "/contact"
+@inject ISnackbar Snackbar
+
+<MudContainer>
+    <MudText Typo="Typo.h5">Kontaktiere uns</MudText>
+    <MudGrid Class="my-12">
+        <MudItem lg="12">
+            <EditForm OnValidSubmit="OnSubmit" Model="@_contacting">
+                <MudStack Spacing="3" Class="my-2">
+                    <MudText>Email</MudText>
+                    <input inputmode="email" placeholder="JohnDoe@gmail.com" type="text" class="min-w-full rounded-md border border-slate-200 px-3 py-2.5 hover:border-blue-500 focus:outline-none focus:ring focus:ring-blue-500/40 active:ring active:ring-blue-500/40"/>
+                </MudStack>
+
+                <MudStack Spacing="3" Class="mt-8">
+                    <MudText>Titel</MudText>
+                    <input required placeholder="Feedback zu einem Buch.." type="text" id="text" class="min-w-full rounded-md border border-slate-200 px-3 py-2.5 hover:border-blue-500 focus:outline-none focus:ring focus:ring-blue-500/40 active:ring active:ring-blue-500/40"/>
+                </MudStack>
+
+                <MudStack Spacing="3" Class="mt-8">
+                    <MudText>Beschreibung</MudText>
+                    <input required placeholder="Feedback zu einem Buch.." type="text" id="text" class="min-h-56 text-start min-w-full rounded-md align-top border border-slate-200 px-3 py-2.5 hover:border-blue-500 focus:outline-none focus:ring focus:ring-blue-500/40 active:ring active:ring-blue-500/40"/>
+                </MudStack>
+                
+                <MudButton ButtonType="ButtonType.Submit" Color="Color.Primary" Class="mt-8 h-12" Variant="Variant.Filled" DisableElevation="true" FullWidth="true" StartIcon="@Icons.Material.Filled.Send">Abschicken</MudButton>
+            </EditForm>
+        </MudItem>
+    </MudGrid>
+</MudContainer>

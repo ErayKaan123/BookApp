@@ -1,0 +1,18 @@
+@inject BookService BookService
+@page "/shop"
+@using BookApp.Service
+
+<MudContainer>
+    <MudText Typo="Typo.h5">Shop</MudText>
+
+    <MudGrid Class="mt-12">
+        <MudItem lg="12">
+            <MudStack Spacing="10">
+                @foreach(var book in BookService.Books)
+                {
+                    <Product Book="book"></Product>
+                }
+            </MudStack>
+        </MudItem>
+    </MudGrid>
+</MudContainer>

@@ -1,0 +1,80 @@
+<MudPaper Class="p-3" Outlined="true" MinHeight="250px">
+    <MudGrid>
+        <MudItem lg="2">
+            <div class="m-6">
+                <MudImage Height="120" Width="120" ObjectFit="ObjectFit.Cover" Src="@Book.Image"></MudImage>
+            </div>
+        </MudItem>
+
+        <MudItem lg="10">
+            <MudGrid Class="m-6">
+                <MudItem lg="9">
+                    <MudStack Spacing="10">
+
+                        <MudGrid Spacing="10">
+                            <MudItem lg="3">
+                                <MudText Typo="Typo.h6">Id</MudText>
+                            </MudItem>
+
+                            <MudItem lg="9">
+                                <MudText Typo="Typo.h6">@Book.Id</MudText>
+                            </MudItem>
+                        </MudGrid>
+
+                        <MudGrid Spacing="10">
+                            <MudItem lg="3">
+                                <MudText Typo="Typo.h6">Titel</MudText>
+                            </MudItem>
+
+                            <MudItem lg="9">
+                                <MudText Typo="Typo.h6">@Book.Title</MudText>
+                            </MudItem>
+                        </MudGrid>
+
+                        <MudGrid Spacing="10">
+                            <MudItem lg="3">
+                                <MudText Typo="Typo.h6">Author</MudText>
+                            </MudItem>
+
+                            <MudItem lg="9">
+                                <MudText Typo="Typo.h6">@Book.Author</MudText>
+                            </MudItem>
+                        </MudGrid>
+
+                        <MudGrid Spacing="10">
+                            <MudItem lg="3">
+                                <MudText Typo="Typo.h6">Beschreibung</MudText>
+                            </MudItem>
+
+                            <MudItem lg="9">
+                                <MudText Typo="Typo.h6">@Book.Description</MudText>
+                            </MudItem>
+                        </MudGrid>
+
+
+                        <MudGrid Spacing="10">
+                            <MudItem lg="3">
+                                <MudText Typo="Typo.h6">Preis</MudText>
+                            </MudItem>
+
+                            <MudItem lg="9">
+                                <MudText Typo="Typo.h6">@(Book.Price) CHF</MudText>
+                            </MudItem>
+                        </MudGrid>
+                    </MudStack>
+                </MudItem>
+
+                <MudItem lg="3">
+                    <MudButton Variant="Variant.Filled" Color="Color.Primary">Detail</MudButton>
+                    <MudButton Variant="Variant.Filled" Color="Color.Info">Kaufen</MudButton>
+                </MudItem>
+            </MudGrid>
+        </MudItem>
+    </MudGrid>
+
+    <MudGrid Justify="Justify.Center">
+        <MudItem lg="3">
+            <MudImage Src="@Book.Url"></MudImage>
+        </MudItem>
+    </MudGrid>
+</MudPaper>

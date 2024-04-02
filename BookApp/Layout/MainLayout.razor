@@ -1,16 +1,28 @@
 ﻿@inherits LayoutComponentBase
-<div class="page">
-    <div class="sidebar">
-        <NavMenu/>
+
+<MudLayout Class="overflow-hidden">
+    <MudAppBar Color="Color.Primary">
+        <MudContainer>
+            <MudGrid>
+                <MudItem lg="9">
+                    <a href="/">
+                         <MudText Inline="true" Typo="Typo.h5">Book Shop</MudText>
+                    </a>
+                </MudItem>
+                
+                <MudItem lg="3">
+                    <MudStack Spacing="10" Class="mt-1.5" Row="true">
+                        <MudLink Typo="Typo.h6" Color="Color.Inherit" Href="/">Home</MudLink>
+                        <MudLink Typo="Typo.h6" Color="Color.Inherit" Href="/shop">Shop</MudLink>
+                        <MudLink Typo="Typo.h6" Color="Color.Inherit" Href="/contact">Contact</MudLink>
+                    </MudStack>
+                </MudItem>
+            </MudGrid>
+        </MudContainer>
+    </MudAppBar>
+    
+    <!--Body-->
+    <div class="mt-48">
+        @Body
     </div>
-
-    <main>
-        <div class="top-row px-4">
-            <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
-        </div>
-
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
-</div>
+</MudLayout>

@@ -5,67 +5,121 @@
     <projectFile profileName="http">BookApp/BookApp.csproj</projectFile>
     <projectFile profileName="https">BookApp/BookApp.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="34ee7449-5e06-4b76-917f-346622cb70bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Fächer/Mathe Marti/NumberSystem/NumberSystem.Core/DecimalConverter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Fächer/Mathe Marti/NumberSystem/NumberSystem.Core/Utils/Util.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/java/ch/bbw/cardgame/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/bmw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/fiat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/lancia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/mercedes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/opel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/romeo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/DatenTypen/src/main/java/ch/bbw/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/DatenTypen/src/main/java/ch/bbw/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/Klassen/src/main/java/ch/bbw/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/Methoden/src/main/java/ch/bbw/Geometrics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/Drawer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/IShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/Shapes/Diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/Shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/Shapes/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/Shapes/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/car/src/main/java/ch/bbw/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/car/src/main/java/model/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/car/src/main/java/model/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/car/src/main/java/model/VehicleOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/house/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/house/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/house/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/house/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/house/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/house/src/main/java/ch/bbw/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/tutorial/src/main/java/ch/bbw/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Fächer/Mathe Marti/HexFormel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2023/Fächer/Mathe Marti/HexFormel.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Fächer/Mathe Marti/ZehnHoch_Übungen.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2023/Fächer/Mathe Marti/ZehnHoch_Übungen.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M162 Marti/Aufgaben/ExelWorkShop/ExcelWorkShopEray.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M162 Marti/ProduktBeschreibung.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../2023/Module/M162 Marti/ProduktBeschreibung.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M162 Marti/ProduktBeschreibung.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M162 Marti/~$oduktBeschreibung.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M162 Marti/~WRL1401.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/HelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/Cargo.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/src/main.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/target/.rustc_info.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/target/CACHEDIR.TAG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.cargo-lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-14a2c54aa021ab10/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-14a2c54aa021ab10/test-bin-untitled" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-14a2c54aa021ab10/test-bin-untitled.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-5b615b28806dea33/bin-untitled" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-5b615b28806dea33/bin-untitled.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-5b615b28806dea33/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../2023/Module/M319 Cavuoti/Code/untitled/untitled.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Fächer/Mathe Marti/NumberSystem/NumberSystem.Core/DecimalConverter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Fächer/Mathe Marti/NumberSystem/NumberSystem.Core/Utils/Util.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/java/ch/bbw/cardgame/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/bmw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/fiat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/lancia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/mercedes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/opel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/10_CardGame_basisprojekt/src/main/resources/static/images/romeo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/DatenTypen/src/main/java/ch/bbw/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/DatenTypen/src/main/java/ch/bbw/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/Klassen/src/main/java/ch/bbw/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/Methoden/src/main/java/ch/bbw/Geometrics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/Drawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/IShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/Shapes/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/Shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/Shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/Shapes/src/main/java/ch/bbw/Shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/car/src/main/java/ch/bbw/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/car/src/main/java/model/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/car/src/main/java/model/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/car/src/main/java/model/VehicleOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/house/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/house/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/house/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/house/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/house/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/house/src/main/java/ch/bbw/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/tutorial/src/main/java/ch/bbw/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/App.razor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/Components/Product.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/Components/Product.razor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/Model/Book.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/Model/Contacting.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/Pages/Contact.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/Pages/Contact.razor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/Pages/Shop.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/Service/BookService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/wwwroot/Cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/wwwroot/Products/CSharpFuerDummies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/wwwroot/Products/EinfachBasischKochen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/wwwroot/Products/GregsTagebuch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/wwwroot/Products/SqlGrundKurs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/wwwroot/QrCodes/Qr_CSharpFuerDummies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/wwwroot/QrCodes/Qr_EinfachBasischKochen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/wwwroot/QrCodes/Qr_GregsDiary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookApp/wwwroot/QrCodes/Qr_SqlGrundKurs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Fächer/Mathe Marti/HexFormel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2023/Fächer/Mathe Marti/HexFormel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Fächer/Mathe Marti/ZehnHoch_Übungen.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2023/Fächer/Mathe Marti/ZehnHoch_Übungen.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M162 Marti/Aufgaben/ExelWorkShop/ExcelWorkShopEray.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M162 Marti/ProduktBeschreibung.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2023/Module/M162 Marti/ProduktBeschreibung.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M162 Marti/ProduktBeschreibung.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M162 Marti/~$oduktBeschreibung.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M162 Marti/~WRL1401.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/HelloWorld/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/target/.rustc_info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/target/CACHEDIR.TAG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.cargo-lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-14a2c54aa021ab10/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-14a2c54aa021ab10/test-bin-untitled" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-14a2c54aa021ab10/test-bin-untitled.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-5b615b28806dea33/bin-untitled" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-5b615b28806dea33/bin-untitled.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/target/debug/.fingerprint/untitled-5b615b28806dea33/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2023/Module/M319 Cavuoti/Code/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BookApp/.idea/cody_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BookApp/.idea/cody_history.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BookApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BookApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/App.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/App.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/BookApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/BookApp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/Layout/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/Layout/MainLayout.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/Layout/MainLayout.razor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/Layout/NavMenu.razor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/Layout/NavMenu.razor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/Pages/Counter.razor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/Pages/Home.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/Pages/Home.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/Pages/Weather.razor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/_Imports.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/_Imports.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/BookApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/BookApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/BookApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/BookApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/BookApp.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/BookApp.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/Debug/net8.0/BookApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/Debug/net8.0/BookApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/Debug/net8.0/BookApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/Debug/net8.0/BookApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/Debug/net8.0/BookApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/Debug/net8.0/BookApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/Debug/net8.0/BookApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/Debug/net8.0/BookApp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/Debug/net8.0/BookApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/Debug/net8.0/BookApp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/wwwroot/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/wwwroot/css/bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/wwwroot/css/bootstrap/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/wwwroot/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/wwwroot/icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/wwwroot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BookApp/wwwroot/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookApp/wwwroot/sample-data/weather.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +130,10 @@
     <option name="activeAccountId" value="VXNlcjoyMDMzMDg=" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2afb4baa91344f5b9296e22ecc72a1ba1de00/bd/d4f5de86/QRCodeGenerator.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -88,10 +145,16 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.BookApp: http.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Launch Settings Profile.BookApp: https.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -104,7 +167,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.BookApp: http">
+  <component name="RunManager" selected=".NET Launch Settings Profile.BookApp: https">
     <configuration name="BookApp: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BookApp/BookApp.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
@@ -160,6 +223,14 @@
       <option name="presentableId" value="Default" />
       <updated>1711008148221</updated>
       <workItem from="1711008152694" duration="122000" />
+      <workItem from="1711008310625" duration="105000" />
+      <workItem from="1711010453826" duration="373000" />
+      <workItem from="1711015264267" duration="249000" />
+      <workItem from="1711025961299" duration="60000" />
+      <workItem from="1711026225457" duration="5584000" />
+      <workItem from="1711381487836" duration="164000" />
+      <workItem from="1711552156636" duration="5148000" />
+      <workItem from="1712064834443" duration="7252000" />
     </task>
     <servers />
   </component>

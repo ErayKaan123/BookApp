@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wHOgyZ4im07on/iwlgz5iILVK06nxzvdDjsdKiQe/QhdokkUsB7nSJNRRQfs85NzoPA1diKoeSiaJWLpei0S9g==",
+  "dgSpecHash": "OucFuJeBeprbNiePdKZyJU3DTngZHbJbGKXV2FYwdlC75wg7yn6jSyXw2PfO6VlbVx0wkbEvkNCKkLNRT2AWkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Eray.Cevik\\Documents\\Berufschule\\2024\\Juan\\Projects\\BookApp\\BookApp\\BookApp.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,8 @@
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "C:\\Users\\Eray.Cevik\\.nuget\\packages\\microsoft.extensions.localization\\8.0.3\\microsoft.extensions.localization.8.0.3.nupkg.sha512",
+    "C:\\Users\\Eray.Cevik\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\8.0.3\\microsoft.extensions.localization.abstractions.8.0.3.nupkg.sha512",
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
@@ -30,6 +32,9 @@
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.3\\microsoft.jsinterop.webassembly.8.0.3.nupkg.sha512",
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.3\\microsoft.net.sdk.webassembly.pack.8.0.3.nupkg.sha512",
+    "C:\\Users\\Eray.Cevik\\.nuget\\packages\\mudblazor\\6.19.0\\mudblazor.6.19.0.nupkg.sha512",
+    "C:\\Users\\Eray.Cevik\\.nuget\\packages\\netstandardqrcode\\1.0.2\\netstandardqrcode.1.0.2.nupkg.sha512",
+    "C:\\Users\\Eray.Cevik\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\Eray.Cevik\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
